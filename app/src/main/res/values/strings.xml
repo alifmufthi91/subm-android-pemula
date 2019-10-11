@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Rick&amp;Morty Characters</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about_text">Aplikasi ini dibuat untuk memenuhi Modul Submission pada Materi Belajar Membuat Aplikasi Android untuk Pemula \n\nAPI yang digunakan sebagai data pada aplikasi ini adalah \nrickandmortyapi.com</string>
+    <string name="about_email">alif.stinky@gmail.com</string>
+    <string name="about_name">Alif Mufthi</string>
+</resources>
